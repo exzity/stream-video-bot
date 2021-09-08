@@ -148,4 +148,3 @@ async def stream_vc(client, message):
         await message.reply(str(e))
         return await VIDEO_CALL[CHAT_ID].stop()
 
-Client.run()

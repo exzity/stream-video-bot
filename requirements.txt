@@ -13,7 +13,6 @@ python-dotenv
 aiofiles
 aiohttp
 requests
-random
 psutil
 future
 gTTS
